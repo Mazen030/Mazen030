@@ -1,5 +1,5 @@
 # 💫 About Me:
-Ai & ML
+Ai & ML<br>Data analyst
 
 
 ## 🌐 Socials:
